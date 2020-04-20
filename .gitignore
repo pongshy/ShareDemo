@@ -1,1 +1,6 @@
+## Intellij IDEA ##
 .idea
+
+
+## security ##
+/src/main/resources/application_reference.yml
